@@ -18,7 +18,7 @@
   This is a fully functional Google Books API search engine that was built with RESTful API and refractored to be a GraphQL API built with Apollo Server.
   ## [Deployed Apllication](#deployed)
 
-  https://github.com/ericn17/solid-octo-memory
+  https://limitless-bastion-15481.herokuapp.com/
   
   ## [Technologies Used](#technologies)
  
@@ -36,6 +36,9 @@
   I will not accept contribution from third-parties at this time. Thank you.
     
   ## [Screenshot](#screenshot)
+  
+  ![google-book-search](https://user-images.githubusercontent.com/103549017/181411046-3ae8b5a9-93e1-40ce-9317-c23f4fc0b79e.png)
+
 
   ## [Questions](#table-of-contents)
   Please contact me using the following links:
